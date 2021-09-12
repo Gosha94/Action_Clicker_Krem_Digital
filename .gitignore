@@ -361,3 +361,51 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/UserSettings
+/Temp
+/ProjectSettings
+/Library/Style.catalog
+/Library/SpriteAtlasDatabase.asset
+/Library/SourceAssetDB-lock
+/Library/SourceAssetDB
+/Library/ShaderCache.db
+/Library/ScriptMapper
+/Library/SceneVisibilityState.asset
+/Library/MonoManager.asset
+/Library/LibraryFormatVersion.txt
+/Library/LastSceneManagerSetup.txt
+/Library/LastBuild.buildreport
+/Library/InspectorExpandedItems.asset
+/Library/expandedItems
+/Library/EditorUserBuildSettings.asset
+/Library/EditorSnapSettings.asset
+/Library/EditorOnlyVirtualTextureState.json
+/Library/EditorOnlyScriptingSettings.json
+/Library/EditorInstance.json
+/Library/CurrentLayout-default.dwlt
+/Library/BuildSettings.asset
+/Library/BuildPlayer.prefs
+/Library/ArtifactDB-lock
+/Library/ArtifactDB
+/Library/AnnotationManager
+/Library/UIElements/EditorWindows
+/Library/StateCache
+/Library/ShaderCache
+/Library/ScriptAssemblies
+/Library/PlayerDataCache
+/Library/PackageManager
+/Library/PackageCache
+/Library/BuildPlayerData/Player/TypeDb-All.json
+/Library/BuildPlayerData/Player/RuntimeInitializeOnLoads.json
+/Library/BuildPlayerData/Player
+/Library/BuildPlayerData/Editor/TypeDb-All.json
+/Library/BuildPlayerData/Editor
+/Library/BuildPlayerData
+/Library/APIUpdater/project-dependencies.graph
+/Library/APIUpdater
+/Library
+/Assets/True Explosions/System
+/Assets/PlanePhysics.physicMaterial
+/Assets/TextMesh Pro
+/Assets/Plugins/GitHub/Editor
+/Assets/Darth_Artisan/Free_Trees
